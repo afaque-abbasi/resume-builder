@@ -7,6 +7,12 @@
     font-weight: 500;
     font-size: 14px;
 }
+
+ header{
+        background-color: #f2f2f2;
+        color: black;
+        text-align: center;
+    }
 body{
     background:linear-gradient(135deg, #E3E3E3 0%,#9a9a9a 100%);
     display: grid;
